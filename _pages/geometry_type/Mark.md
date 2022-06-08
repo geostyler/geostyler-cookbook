@@ -16,12 +16,12 @@ Point is a simple geometry type, even though it has position as a coordinates at
 
 # **UI of styler**
 
-Once data is loaded, [Geostyler](https://geostyler.org/) automatically detects the geometry type and try to set it up, click in column of *paint bucket*
+Once data is loaded, [Geostyler](https://geostyler.org/) automatically detects the geometry type and tries to set it up, click in column of *paint bucket*
 
-`Mark` supports various properties to create perfect styling for Points, for each change in the properties, you can see preview
+`Mark` supports various properties to create perfect styling for Points. 
 ![Mark Symbolizer]( ../../images/mark_sym.png "Mark Symbolizer")
 
-`Mark` supports various properties to create perfect styling for Points, for each change in the properties, you can see preview 
+For each change in the properties, you can see preview
 ![Mark preview]( ../../images/preview_mark.png "Mark preview")
 
 
@@ -30,7 +30,7 @@ Once data is loaded, [Geostyler](https://geostyler.org/) automatically detects t
 
 `Mark` supports various symbol lists right out of the box such as `circle`,`square`,`triangle`,`star`,`cross`,`x` , it also provides shapes such as `backslash` , `carrow`, `dot`, `horline`, `oarrow`, `plus`, `slash`, `times`, `vertline`.
 
-Once you select these, you can check preview to see how it looks
+Once you select these, you can check the preview to see how it looks
 
 ![Mark cross]( ../../images/mark_cross.png "Mark cross")
 

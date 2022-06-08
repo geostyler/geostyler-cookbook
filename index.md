@@ -15,12 +15,13 @@ There are various components to it as follows
 
 ## 1. Language
 
-[Geostyler](https://geostyler.org/) demo UI can be translated in 4 different languages 
+[Geostyler](https://geostyler.org/) demo UI can be translated in 5 different languages 
 
 - EN - English
 - DE - German
 - ES - Spanish
 - 中文 - Mandarin
+- FR - French
 
 ## 2. Compact
 
