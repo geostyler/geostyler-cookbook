@@ -7,7 +7,7 @@ All written functions can be tested here Geostyler [Official demo](https://geost
 
 # 🎨 Getting familiar with UI
 
-[Geostyler](https://geostyler.org/) [Official demo](https://geostyler.github.io/geostyler-demo/) is a very easy to use, interactive web app which allows user to start testing capabilities of the application without installing it. 
+[Geostyler Demo](https://geostyler.github.io/geostyler-demo/) is a very easy to use, interactive web app which allows users to start testing capabilities of the [GeoStyler library](https://github.com/geostyler/geostyler) without installing it.
 
 There are various components to it as follows 
 
