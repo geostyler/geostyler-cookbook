@@ -38,7 +38,7 @@ Here are both modes
 
 ## 3. Symbolizer Renderer
 
-Currently [Geostyler](https://geostyler.org/) supports `Openlayers` and `SLD` rending for the symbol. Changing this setting will reflect the way symbol is rendered in the `Graphical Editor`
+Currently, [Geostyler](https://geostyler.org/) supports `Openlayers` and `SLD` rendering of symbols. Changing this setting will reflect the way symbols are rendered in the `Graphical Editor`
 
 ![renderer]( images/renderer.png "renderer")
 
