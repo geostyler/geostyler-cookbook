@@ -20,7 +20,7 @@ There are various components to it as follows
 - EN - English
 - DE - German
 - ES - Spanish
-- 中文 - mandarin
+- 中文 - Mandarin
 
 ## 2. Compact
 
