@@ -46,4 +46,4 @@ Currently, [Geostyler](https://geostyler.org/) supports `Openlayers` and `SLD` r
 
 This allows users to import existing `SLD` created using Geoserver, QGIS, etc in the application. 
 
-Once loaded users can make changes if required or visualize it as it is. 
+Once loaded, users can make changes if required or visualize it as it is. 
