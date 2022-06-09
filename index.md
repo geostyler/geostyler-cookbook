@@ -5,7 +5,7 @@ layout: home
 
 All written functions can be tested on the [GeoStyler Demo](https://geostyler.github.io/geostyler-demo/). Also checkout the [geostyler-demo repo](https://github.com/geostyler/geostyler-demo) for the same.
 
-# 🎨 Getting familiar with UI
+# 🎨 Getting familiar with the UI
 
 [Geostyler Demo](https://geostyler.github.io/geostyler-demo/) is a very easy to use, interactive web app which allows users to start testing capabilities of the [GeoStyler library](https://github.com/geostyler/geostyler) without installing it.
 

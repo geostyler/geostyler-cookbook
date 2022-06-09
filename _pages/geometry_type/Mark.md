@@ -73,21 +73,21 @@ Using `Fill-opacity`, users can specify the transparency of the color used in `F
 
 </aside>
 
-## Stroke-Colour
+## Stroke-Color
 
-This property defines the color of the border of the `Mark`. Selection of Colour works the same way as `Fill-color`
+This property defines the color of the border of the `Mark`. Selection of color works the same way as `Fill-color` .
 
 ## Stroke-Opacity
 
-This property is used to define transparency of the border. User can set different opacity for `fill` and `stroke` .
+This property is used to define transparency of the border. Users can set different opacity for `fill` and `stroke` .
 
 Values can be set between **0 - 1**, where 0 means transparent and 1 means opaque
 
 
 ## Stroke-Width
 
-`Stroke-Width` is used to set thickness of the border
+`Stroke-Width` is used to set thickness of the border.
 
 ## Rotation
 
-Using `Rotation`, user can rotate the symbol at given value in degree
+Using `Rotation`, users can rotate the symbol at given value in degrees.
