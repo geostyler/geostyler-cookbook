@@ -65,7 +65,8 @@ Once you select these, you can check the preview to see how it looks
 
 ## Fill-Opacity
 
-Using `Fill-opacity` user can specify the transparency of colour used in `Fill-color` , User can create combination of `Fill-opacity` and `stroke-opacity`
+Using `Fill-opacity`, users can specify the transparency of the color used in `Fill-color`. Users can create a combination of `Fill-opacity` and `Stroke-opacity`
+
 
 <aside>
 🚀 Note : This might not reflect properly in preview, but developers are working on it, and will be resolved soon
