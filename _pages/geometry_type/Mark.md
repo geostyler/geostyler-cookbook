@@ -47,7 +47,8 @@ Once you select these, you can check the preview to see how it looks
 `Fill-color` allows users to select color for filling the `Mark` . You can select a color by following methods:
 
 
-- Selection from Colour Panel
+- Selection from Color Panel
+
 - Hex ID
 - RGB
 - Selection from predefined colors
