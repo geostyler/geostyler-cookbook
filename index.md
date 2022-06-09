@@ -3,7 +3,7 @@ layout: home
 ---
 # 🖥️ Demo
 
-All written functions can be tested here Geostyler [Official demo](https://geostyler.github.io/geostyler-demo/) UI. Also checkout [repo](https://github.com/geostyler/geostyler-demo) for the same.
+All written functions can be tested on the [GeoStyler Demo](https://geostyler.github.io/geostyler-demo/). Also checkout the [geostyler-demo repo](https://github.com/geostyler/geostyler-demo) for the same.
 
 # 🎨 Getting familiar with UI
 
