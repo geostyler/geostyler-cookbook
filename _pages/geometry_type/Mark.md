@@ -56,7 +56,8 @@ Once you select these, you can check the preview to see how it looks
 
 ## Opacity
 
-`Opacity` defines the transparency of the `Mark`, values can be set between **0 - 1**, where 0 means transparent and 1 means opaque
+`Opacity` defines the transparency of the `Mark`. Values can be set between **0 - 1**, where 0 means transparent and 1 means opaque.
+
 
 ![Mark opacity]( ../../images/mark_opacity.png "Mark opacity")
 
