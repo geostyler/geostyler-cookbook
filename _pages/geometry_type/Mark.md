@@ -39,7 +39,8 @@ Once you select these, you can check the preview to see how it looks
 
 ## Radius
 
-`Radius` is the general term use to define the size of the `Mark` , you can set it up as per convenience
+`Radius` is the general term used to define the size of the `Mark` , you can set it up as per convenience.
+
 
 ## Fill-color
 
