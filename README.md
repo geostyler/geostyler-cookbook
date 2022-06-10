@@ -1,6 +1,6 @@
 # GeoStyler Cookbook
 
-The cookbook as available at
+The cookbook is available at
 https://geostyler.github.io/geostyler-cookbook
 
 ### Attributions
