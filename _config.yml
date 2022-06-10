@@ -18,7 +18,6 @@ toc:
   h_min: 1
   h_max: 3
 
-remote_theme: sighingnow/jekyll-gitbook
 # markdown render engine.
 markdown:         kramdown
 kramdown:
