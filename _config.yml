@@ -10,7 +10,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://github.com/geostyler/geostyler-cookbook'
-baseurl:          ''
+baseurl:          'geostyler-cookbook'
 rss:              RSS
 
 toc:
